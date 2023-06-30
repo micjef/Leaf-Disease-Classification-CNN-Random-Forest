@@ -1,0 +1,36 @@
+Filename,True Labels,Predicted Labels
+89699048-94c3-4389-9a86-13e73dfd23c6___RS_HL 7257.JPG,Apple___healthy,Apple___Apple_scab
+dc9bcd28-1f28-430c-9f05-9895174a2805___JR_HL 5975.JPG,"Pepper,_bell___healthy","Pepper,_bell___Bacterial_spot"
+3235339f-7b7b-423a-850a-0fd58ded4725___JR_FrgE.S 2791.JPG,Apple___Black_rot,Apple___Cedar_apple_rust
+e7f0bd90-56b8-4d09-a406-9c4786eaca3a___RS_HL 7738_flipTB.JPG,Apple___healthy,Apple___Apple_scab
+d7f13145-ea6d-4e04-9efa-669792d5e056___JR_HL 5980.JPG,"Pepper,_bell___healthy",Apple___healthy
+64d43490-e345-4690-8232-071bf0174895___JR_FrgE.S 3031_270deg.JPG,Apple___Black_rot,Apple___Apple_scab
+419c16b2-13aa-485b-8342-3760707e21f9___FREC_Scab 3285_270deg.JPG,Apple___Apple_scab,Apple___healthy
+b69df6fa-dc49-41e4-9efa-ee313efeb190___JR_B.Spot 3297_180deg.JPG,"Pepper,_bell___Bacterial_spot",Apple___Black_rot
+76236e9c-1898-475e-b0f6-0d535e105432___RS_HL 7702.JPG,Apple___healthy,Apple___Apple_scab
+321c7135-853f-444d-9952-a893e660d966___FREC_Scab 2958_270deg.JPG,Apple___Apple_scab,Apple___healthy
+0a14783a-838a-4d4f-a671-ff98011714c6___FREC_Scab 3288.JPG,Apple___Apple_scab,Apple___healthy
+f87dbe7e-189e-4dc9-ac5c-9b7737c34551___RS_HL 7665.JPG,Apple___healthy,Apple___Apple_scab
+7c95b0e8-b8df-4312-aca8-51d4731e7c1e___JR_HL 8899.JPG,"Pepper,_bell___healthy",Apple___healthy
+6aa4217e-6d45-4a3b-8804-99fe82bd8925___RS_HL 7627.JPG,Apple___healthy,"Pepper,_bell___healthy"
+03a4f6f6-9c17-4310-921b-5dbf97df630a___JR_HL 8571_newPixel25.JPG,"Pepper,_bell___healthy",Apple___Cedar_apple_rust
+fa9c1112-27fc-42db-930d-7e4956267ab5___FREC_Scab 3174.JPG,Apple___Apple_scab,Apple___Cedar_apple_rust
+ae67e27b-7937-4094-9263-580fcff3718d___RS_HL 7663.JPG,Apple___healthy,Apple___Apple_scab
+3306b49b-e3b3-4450-8609-ae44ab2b6593___bell-pepper-plant-61726.jpg,"Pepper,_bell___healthy","Pepper,_bell___Bacterial_spot"
+a59e57c9-a916-447d-95a0-959f1fb51447___JR_FrgE.S 8819.JPG,Apple___Black_rot,Apple___Cedar_apple_rust
+bee59bef-1155-40bd-97a3-8c600c33e6b5___FREC_C.Rust 0082_new30degFlipTB.JPG,Apple___Cedar_apple_rust,"Pepper,_bell___healthy"
+93f9f8ea-31c2-412f-b3c4-49ee75312d76___JR_FrgE.S 2978_90deg.JPG,Apple___Black_rot,Apple___healthy
+e7f0bd90-56b8-4d09-a406-9c4786eaca3a___RS_HL 7738.JPG,Apple___healthy,Apple___Apple_scab
+7ce07da8-973f-467f-98af-642a1ffbea04___FREC_C.Rust 4334_newPixel25.JPG,Apple___Cedar_apple_rust,"Pepper,_bell___Bacterial_spot"
+1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531_new30degFlipLR.JPG,Apple___Apple_scab,Apple___Black_rot
+65e6c212-6363-4ba2-8245-52c5266efad0___JR_FrgE.S 8625_90deg.JPG,Apple___Black_rot,Apple___healthy
+1b36926c-faee-4b6c-9f66-26d1377b9a78___RS_HL 7662.JPG,Apple___healthy,Apple___Apple_scab
+125fd81c-7948-45e1-8550-f7c7b8f6932a___JR_FrgE.S 8807.JPG,Apple___Black_rot,"Pepper,_bell___healthy"
+90af12e6-8764-4cb5-9f88-ac1fa8b337c0___JR_FrgE.S 2738_90deg.JPG,Apple___Black_rot,Apple___Apple_scab
+df0e8bc3-8244-4843-8d54-0593a6f2ee05___JR_FrgE.S 2743_90deg.JPG,Apple___Black_rot,Apple___Apple_scab
+cd18fd71-59d6-4d48-8c52-d31ff68f1fe2___RS_HL 5716.JPG,Apple___healthy,"Pepper,_bell___healthy"
+1021c460-93e4-48cd-9c84-c576b2c5117c___JR_FrgE.S 2983_90deg.JPG,Apple___Black_rot,Apple___Apple_scab
+bee59bef-1155-40bd-97a3-8c600c33e6b5___FREC_C.Rust 0082_new30degFlipLR.JPG,Apple___Cedar_apple_rust,Apple___Apple_scab
+34b8de2a-d30e-4e52-8269-d65cc4e444f6___RS_HL 7717.JPG,Apple___healthy,Apple___Apple_scab
+65c52553-6152-46d4-a576-3ef4984a6ad4___FREC_Scab 3524.JPG,Apple___Apple_scab,Apple___Black_rot
+11c50257-617e-4a6a-a996-2b195af9ada4___FREC_Scab 3462.JPG,Apple___Apple_scab,Apple___healthy

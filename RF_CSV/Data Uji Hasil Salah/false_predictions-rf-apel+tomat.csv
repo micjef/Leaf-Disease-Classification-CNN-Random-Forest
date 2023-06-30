@@ -1,0 +1,259 @@
+Filename,True Labels,Predicted Labels
+1bcc3b5d-7e00-43fb-983e-95ae271a715b___FREC_Scab 3061_90deg.JPG,Apple___Apple_scab,Apple___Black_rot
+1c980f09-7e37-4e57-96e5-d18783691134___Com.G_TgS_FL 9908_new30degFlipLR.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+879bb942-2577-425e-8781-9dfb540d98ac___GCREC_Bact.Sp 6072.JPG,Tomato___Bacterial_spot,Tomato___Early_blight
+5f693474-3522-4b5e-adaa-2f55e407f45e___Com.G_TgS_FL 8049_newPixel25.JPG,Tomato___Target_Spot,Apple___Cedar_apple_rust
+c40b106b-14bf-4af2-88b5-51182169d548___RS_HL 0298.JPG,Tomato___healthy,Tomato___Target_Spot
+a4354dbc-7948-49ce-b8c7-23cb68042657___UF.GRC_YLCV_Lab 08533.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Bacterial_spot
+3868a159-b5df-49d2-a689-1181ee1007dc___Crnl_L.Mold 8720_flipTB.JPG,Tomato___Leaf_Mold,Tomato___Septoria_leaf_spot
+fdebd3b7-60ea-4d58-a112-5e05910a506a___YLCV_GCREC 2729.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Bacterial_spot
+dbbc206a-90ab-4b29-abe0-5613028278be___RS_Erly.B 8409.JPG,Tomato___Early_blight,Tomato___Leaf_Mold
+d7d2bf3e-2e90-4f21-8c2f-df9baffac2e9___Com.G_TgS_FL 8354.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+49680a31-cb91-4694-9609-4aad7079dd77___Matt.S_CG 6155.JPG,Tomato___Septoria_leaf_spot,Apple___Cedar_apple_rust
+09994dfa-4aab-4ada-9ef2-431d050e1e38___RS_HL 5658_flipTB.JPG,Apple___healthy,Tomato___Target_Spot
+7fd4f12e-758d-4965-a98f-c59bb9983e31___Com.G_TgS_FL 8211.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+f88be630-f853-48f8-b546-a2f7966368a2___RS_Erly.B 7418.JPG,Tomato___Early_blight,Tomato___Spider_mites Two-spotted_spider_mite
+2f07c3a8-90db-4d61-b8e3-55b3c016c510___GH_HL Leaf 382.1_new30degFlipLR.JPG,Tomato___healthy,Apple___Cedar_apple_rust
+eb807a4d-9d14-49a0-af1f-1e26b093edff___RS_Erly.B 7409_flipTB.JPG,Tomato___Early_blight,Tomato___Spider_mites Two-spotted_spider_mite
+d10a8e5b-bf53-45de-adbe-ea42f9bcb937___Com.G_TgS_FL 9910.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+3a1a6b9e-2a68-421f-adbe-229baf8a6093___GHLB Leaf 2 Day 13.JPG,Tomato___Late_blight,Tomato___healthy
+0c8fd2f4-9c26-4e6d-90b5-fae10602579c___Matt.S_CG 1072.JPG,Tomato___Septoria_leaf_spot,Tomato___Late_blight
+1449ecb2-0325-49ba-80f1-2040b739fddd___RS_Late.B 7044.JPG,Tomato___Late_blight,Tomato___Early_blight
+52b3119d-4f5e-41b0-948f-7a1d3b1341eb___JR_Sept.L.S 8495.JPG,Tomato___Septoria_leaf_spot,Tomato___Tomato_mosaic_virus
+5979896a-3aaa-4e0c-8b74-cfeda37cb166___JR_FrgE.S 2739_270deg.JPG,Apple___Black_rot,Apple___Apple_scab
+a8d430c0-7dff-4474-a6c1-1fd601198ff6___RS_Erly.B 7738.JPG,Tomato___Early_blight,Tomato___Septoria_leaf_spot
+5e77f244-af69-4b7e-aba2-40cda5efd445___Com.G_TgS_FL 1065_new30degFlipLR.JPG,Tomato___Target_Spot,Tomato___healthy
+d344e6d5-259e-4f1c-a72e-919ae9e13005___RS_Erly.B 6482_180deg.JPG,Tomato___Early_blight,Tomato___Late_blight
+e03a71a2-18aa-4b80-98d3-da93062682be___Com.G_TgS_FL 7927.JPG,Tomato___Target_Spot,Tomato___Septoria_leaf_spot
+5393abd2-b4e2-4af2-94d4-c52c919fc157___RS_HL 0322.JPG,Tomato___healthy,Tomato___Target_Spot
+d344e6d5-259e-4f1c-a72e-919ae9e13005___RS_Erly.B 6482_flipTB.JPG,Tomato___Early_blight,Tomato___Leaf_Mold
+dfeb11af-087c-4197-9a4f-7d1c662b8c23___UF.GRC_YLCV_Lab 02650.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Late_blight
+0c1aa7e5-a820-4fb8-8bc2-623a6056e749___JR_Sept.L.S 2659_flipTB.JPG,Tomato___Septoria_leaf_spot,Tomato___Early_blight
+4d72bd56-c91d-41d7-9b7f-9c624e63c22a___Com.G_TgS_FL 0023_180deg.JPG,Tomato___Target_Spot,Tomato___Early_blight
+6c124f22-619b-44fc-a3d1-231286d4bfda___RS_Erly.B 6403.JPG,Tomato___Early_blight,Tomato___Late_blight
+88f30e10-a3c3-47d3-ba7c-fbe87ee1910b___Com.G_SpM_FL 1653.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot
+3a6faf8e-3b27-4498-aca9-45f9e4158a56___GHLB2 Leaf 112.1.JPG,Tomato___Late_blight,Tomato___Bacterial_spot
+85eb91f6-f8f0-438e-afbc-ca12551ee404___FREC_C.Rust 9884_180deg.JPG,Apple___Cedar_apple_rust,Tomato___Late_blight
+60af8fc1-7f44-496c-9999-507d06e92142___RS_HL 7278.JPG,Apple___healthy,Tomato___healthy
+8c00f0dd-bcef-4188-a270-91e563d7b18b___RS_HL 6182.JPG,Apple___healthy,Tomato___Late_blight
+3811b546-53ab-4856-a1b2-b228229b09a4___RS_Late.B 6131.JPG,Tomato___Late_blight,Tomato___healthy
+e0c213ad-35e6-4cb2-bc9a-b183c6d23adc___JR_Sept.L.S 2518.JPG,Tomato___Septoria_leaf_spot,Tomato___Early_blight
+13901a18-a9bf-48d7-a1a7-c6afd7d6bf87___YLCV_NREC 0130.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Target_Spot
+1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531.JPG,Apple___Apple_scab,Apple___Black_rot
+60b03301-a2d3-4063-9b4f-1840c9288c08___GHLB Leaf 23.6 Day 13.JPG,Tomato___Late_blight,Apple___Cedar_apple_rust
+6e45480a-127e-4173-9402-7b724728a139___RS_Late.B 4837_flipLR.JPG,Tomato___Late_blight,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+0621aab4-b9fd-4012-b0a6-ba72e63cd87d___RS_Erly.B 8220.JPG,Tomato___Early_blight,Tomato___Late_blight
+d64e56f8-7015-423b-9926-5fcf3b4370f5___RS_HL 7735_flipTB.JPG,Apple___healthy,Apple___Apple_scab
+50a5fe07-466c-47a6-b9a9-565a9b070fe2___Com.G_SpM_FL 8664.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Early_blight
+a352005b-d036-4aa9-8e17-babac0a9b882___JR_FrgE.S 8628_90deg.JPG,Apple___Black_rot,Apple___healthy
+88e7f3bd-69e4-48b1-a6c4-10e5bded113a___Crnl_L.Mold 6514_180deg.JPG,Tomato___Leaf_Mold,Tomato___Target_Spot
+b14f7df6-7a6c-44e6-80a4-c0c11318a9a9___FREC_C.Rust 4260_270deg.JPG,Apple___Cedar_apple_rust,Tomato___Bacterial_spot
+1c980f09-7e37-4e57-96e5-d18783691134___Com.G_TgS_FL 9908_flipTB.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+ea656be9-03db-4a81-b78c-12a7f9f87d01___Com.G_TgS_FL 9682.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+419c16b2-13aa-485b-8342-3760707e21f9___FREC_Scab 3285.JPG,Apple___Apple_scab,Apple___healthy
+23f67e39-1b4b-4296-a8a2-2a15890d0529___GCREC_Bact.Sp 3364.JPG,Tomato___Bacterial_spot,Tomato___Early_blight
+74c0d66d-a12d-4b9d-9f24-e283b8273a7e___RS_Erly.B 8302_flipTB.JPG,Tomato___Early_blight,Apple___healthy
+6edeac14-5ac4-4810-a3c0-ff35feb176fb___Com.G_TgS_FL 7911.JPG,Tomato___Target_Spot,Tomato___Septoria_leaf_spot
+54a6ab64-9e7f-4126-8497-857c7c339a80___RS_HL 0461.JPG,Tomato___healthy,Tomato___Target_Spot
+b3ec0e57-e514-49c0-87e5-33d3da17bcea___UF.GRC_YLCV_Lab 08444.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Bacterial_spot
+35624b1d-4848-4ccc-8554-76cc8f37fb34___JR_Sept.L.S 2599.JPG,Tomato___Septoria_leaf_spot,Tomato___Leaf_Mold
+c6a8977b-47d4-4465-88fe-f3869a00a62e___Com.G_TgS_FL 1061.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+03ffc2bf-ec6a-43d4-b349-9fd4138467bc___Com.G_TgS_FL 0738_newPixel25.JPG,Tomato___Target_Spot,Tomato___healthy
+f2be0eb5-213e-44f1-b618-4d329e04b6a4___JR_Sept.L.S 8494.JPG,Tomato___Septoria_leaf_spot,Tomato___Tomato_mosaic_virus
+00c07a77-15e6-4815-92d4-8d1e1afb7f3c___PSU_CG 2052_270deg.JPG,Tomato___Tomato_mosaic_virus,Tomato___Septoria_leaf_spot
+b4c4e221-ab02-4e57-a82c-5f2dfd431675___RS_Late.B 5029.JPG,Tomato___Late_blight,Tomato___Early_blight
+88e591ff-3daa-4c31-ad6a-97ee433b57cd___Matt.S_CG 1270.JPG,Tomato___Septoria_leaf_spot,Tomato___Leaf_Mold
+deb42f2f-ad95-4da7-8568-2e3c55a31c96___UF.GRC_YLCV_Lab 01397.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Late_blight
+f4439d2e-fe51-489b-b9c3-960b557f0436___UF.GRC_YLCV_Lab 02210.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Apple___Cedar_apple_rust
+1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531_270deg.JPG,Apple___Apple_scab,Apple___Black_rot
+993f3e69-946a-4aa3-bd82-9e084d36e6de___JR_Sept.L.S 2512.JPG,Tomato___Septoria_leaf_spot,Tomato___Tomato_mosaic_virus
+bfc3baa5-29f8-43c0-bc0a-79becd72135f___Matt.S_CG 6153.JPG,Tomato___Septoria_leaf_spot,Apple___Cedar_apple_rust
+9667b27d-09e8-4776-97bf-e6088227d26d___Crnl_L.Mold 6670_180deg.JPG,Tomato___Leaf_Mold,Tomato___Early_blight
+974bc246-0ab0-4a54-95c8-dd0b557f676b___Crnl_L.Mold 7059.JPG,Tomato___Leaf_Mold,Tomato___Late_blight
+e6c8b854-6b46-4137-8e08-81e63ff418ea___JR_FrgE.S 2971_90deg.JPG,Apple___Black_rot,Apple___Apple_scab
+2b45f5a7-e6d1-4750-9e92-bda4c2ca8bf0___Matt.S_CG 7672.JPG,Tomato___Septoria_leaf_spot,Tomato___Target_Spot
+de78e9f9-5e7f-47e2-b750-7d510e876bae___FREC_C.Rust 3611_90deg.JPG,Apple___Cedar_apple_rust,Tomato___Late_blight
+91cb766d-bbfe-405b-8211-8dbfb6888c12___GHLB2 Leaf 8963.JPG,Tomato___Late_blight,Tomato___Septoria_leaf_spot
+89699048-94c3-4389-9a86-13e73dfd23c6___RS_HL 7257_flipTB.JPG,Apple___healthy,Tomato___Septoria_leaf_spot
+4707268c-7dea-4327-9b13-a8da598c4356___GCREC_Bact.Sp 3643.JPG,Tomato___Bacterial_spot,Tomato___Target_Spot
+5b4ca8b4-ed80-43c7-90ca-f9912d9fb7b6___RS_Late.B 5226.JPG,Tomato___Late_blight,Tomato___Early_blight
+4616690f-d6df-4dbe-9c10-7b987a046304___YLCV_GCREC 5362.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Early_blight
+de4f6bd2-15df-45c2-aa3e-da9c42586e67___RS_Late.B 5100.JPG,Tomato___Late_blight,Tomato___Early_blight
+427229e9-359c-49c5-8dfd-b721a3802899___RS_Erly.B 7861_flipTB.JPG,Tomato___Early_blight,Tomato___Septoria_leaf_spot
+9407ce87-44ce-4c7f-89ae-1e497b44ae30___RS_Erly.B 9381.JPG,Tomato___Early_blight,Tomato___Late_blight
+c2c75d71-71ea-43c4-b70d-7bc16e8230ab___GHLB2 Leaf 104.JPG,Tomato___Late_blight,Apple___Cedar_apple_rust
+8baa930d-dd7a-4ac0-a917-91a6c996dcb5___Com.G_TgS_FL 0720.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+dfde75b3-9cba-4b76-85ce-df8fb517976a___JR_Sept.L.S 2716.JPG,Tomato___Septoria_leaf_spot,Tomato___Tomato_mosaic_virus
+f58de461-853f-46d7-b223-d48a81507a85___JR_FrgE.S 2996_90deg.JPG,Apple___Black_rot,Tomato___Target_Spot
+4cd8dfb9-2afe-425f-a110-39882ded3802___RS_HL 5799.JPG,Apple___healthy,Tomato___Late_blight
+c29f66a1-5df9-4bd7-a6cd-89a0d4a4cba5___RS_Erly.B 9608.JPG,Tomato___Early_blight,Tomato___Late_blight
+2245fdf5-3ff5-4624-9797-0b65bcc6cf73___RS_Erly.B 6358_flipTB.JPG,Tomato___Early_blight,Tomato___Late_blight
+1d31b822-7933-4801-a18c-657b8af377d6___RS_HL 0636_newPixel25.JPG,Tomato___healthy,Tomato___Target_Spot
+d75573fb-2bd8-43fa-9af5-3f219e35142f___RS_Late.B 5070.JPG,Tomato___Late_blight,Tomato___Early_blight
+6fcbdce6-efdd-4882-ae4a-07161a608610___Com.G_TgS_FL 8237.JPG,Tomato___Target_Spot,Tomato___healthy
+6dbfb834-5654-4526-8014-2b33ef976892___RS_Late.B 6172.JPG,Tomato___Late_blight,Tomato___Target_Spot
+4b0ff251-1da4-4f9c-bf92-46441043c6cf___Keller.St_CG 1951_flipTB.JPG,Tomato___Septoria_leaf_spot,Tomato___Target_Spot
+5e77f244-af69-4b7e-aba2-40cda5efd445___Com.G_TgS_FL 1065_180deg.JPG,Tomato___Target_Spot,Tomato___healthy
+53ad510e-0bf0-4366-928b-8d80f1a51b50___RS_HL 5873.JPG,Apple___healthy,Tomato___Septoria_leaf_spot
+52082b15-4350-415a-be8c-bb0e0fc3ab88___RS_Erly.B 6332.JPG,Tomato___Early_blight,Tomato___Bacterial_spot
+0a5edec2-e297-4a25-86fc-78f03772c100___JR_Sept.L.S 8468_flipTB.JPG,Tomato___Septoria_leaf_spot,Tomato___Early_blight
+e468b44a-912b-4e7f-9383-41050a5d421b___RS_Erly.B 8445.JPG,Tomato___Early_blight,Tomato___Septoria_leaf_spot
+125fd81c-7948-45e1-8550-f7c7b8f6932a___JR_FrgE.S 8807_90deg.JPG,Apple___Black_rot,Apple___Apple_scab
+0eacfbb6-3d68-4a89-b8f8-6b2d328102af___RS_HL 7961.JPG,Apple___healthy,Tomato___Leaf_Mold
+7edff180-8238-44d7-bba1-07749e649dae___FREC_Scab 3071_90deg.JPG,Apple___Apple_scab,Apple___Black_rot
+1ebf9add-aa7f-4a84-adbf-67f700f918bc___GH_HL Leaf 437_newPixel25.JPG,Tomato___healthy,Apple___Cedar_apple_rust
+59e3d4c3-f6fe-4d68-82a5-d509b810b39d___PSU_CG 2303_270deg.JPG,Tomato___Tomato_mosaic_virus,Tomato___Septoria_leaf_spot
+2ac8d689-f30a-4eee-a856-86c92f8dcbd2___FREC_C.Rust 3952_newPixel25.JPG,Apple___Cedar_apple_rust,Tomato___Target_Spot
+60834ba9-1f68-480f-95ae-5cc104065948___UF.GRC_YLCV_Lab 08568.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Bacterial_spot
+6bd21bee-4648-43fc-b481-dc4913a8c9be___Com.G_TgS_FL 0841_newPixel25.JPG,Tomato___Target_Spot,Tomato___healthy
+4d6e773b-af80-461b-b682-962579767e6b___Com.G_TgS_FL 8210_flipTB.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+fbc07887-0306-4f85-9de9-ebb68a87753a___RS_Erly.B 7456_180deg.JPG,Tomato___Early_blight,Tomato___Late_blight
+313ff9e3-e43c-45b6-9879-b76a1e040eef___RS_Erly.B 8454.JPG,Tomato___Early_blight,Tomato___Septoria_leaf_spot
+6b4d8881-2f22-4f92-b35f-d1686e9a3b81___Com.G_SpM_FL 1169.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot
+f1f7f16d-7794-4ac9-9962-32a5320d38fd___GCREC_Bact.Sp 6234.JPG,Tomato___Bacterial_spot,Tomato___Early_blight
+16ae1b64-2954-4135-bea5-d599ba56740c___RS_Erly.B 7649.JPG,Tomato___Early_blight,Tomato___Late_blight
+e7120235-6ae1-4642-8ec8-a16812aedce5___RS_Erly.B 9507.JPG,Tomato___Early_blight,Tomato___Late_blight
+6fb62aa7-c3d4-457a-b95d-a8b3102cccd8___FREC_Scab 3005.JPG,Apple___Apple_scab,Apple___healthy
+e12cb6bc-9831-4a22-ba1f-95d3e7c1c62a___FREC_Scab 3040_270deg.JPG,Apple___Apple_scab,Tomato___Late_blight
+974bc246-0ab0-4a54-95c8-dd0b557f676b___Crnl_L.Mold 7059_180deg.JPG,Tomato___Leaf_Mold,Tomato___Late_blight
+4cab6361-aae6-4bc4-bd5b-d206d4e7e942___Com.G_SpM_FL 1579.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot
+83b691d5-053c-4f0b-9753-d4880dbefc76___JR_Sept.L.S 2513.JPG,Tomato___Septoria_leaf_spot,Tomato___Target_Spot
+0d789240-9714-4378-8b63-4afb12ddfa44___RS_HL 9735_newPixel25.JPG,Tomato___healthy,Tomato___Target_Spot
+0090d05d-d797-4c99-abd4-3b9cb323a5fd___JR_FrgE.S 8727_270deg.JPG,Apple___Black_rot,Apple___Apple_scab
+90f8a11f-04f3-4d4d-a6c0-9b75e69ae66f___Com.G_TgS_FL 8048.JPG,Tomato___Target_Spot,Tomato___Septoria_leaf_spot
+d56280c8-1442-476c-bdc8-8bb99edad8dd___GHLB2 Leaf 8847.JPG,Tomato___Late_blight,Tomato___Septoria_leaf_spot
+680c56ea-dc23-4b7b-baeb-f51b156c98f6___FREC_Scab 3416.JPG,Apple___Apple_scab,Tomato___Bacterial_spot
+d6441d7c-be78-420d-b202-1298cd5b94e9___Crnl_L.Mold 6571_flipTB.JPG,Tomato___Leaf_Mold,Tomato___Spider_mites Two-spotted_spider_mite
+1498c064-8f74-4706-bf27-4761c24b72bd___RS_Late.B 5120.JPG,Tomato___Late_blight,Tomato___Early_blight
+d31a1896-1b88-48e9-913e-ade1544748ef___YLCV_NREC 2307.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Spider_mites Two-spotted_spider_mite
+a4917ff1-44a6-4f13-bb49-9368acb3a7e9___PSU_CG 2069_newPixel25.JPG,Tomato___Tomato_mosaic_virus,Tomato___Target_Spot
+294342db-c137-4644-9b1e-fb4bf61d7508___Com.G_TgS_FL 8288.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+f853c1bf-7139-42d0-a40d-0e98da2cbab0___Crnl_L.Mold 6509_flipTB.JPG,Tomato___Leaf_Mold,Tomato___Tomato_mosaic_virus
+7add2e39-6555-4d52-ad02-b1bb061db8e7___JR_FrgE.S 3039.JPG,Apple___Black_rot,Apple___Apple_scab
+96441f54-ccd3-4f34-b405-e395e5070d2c___RS_Erly.B 8336_flipTB.JPG,Tomato___Early_blight,Tomato___Septoria_leaf_spot
+16f91dc7-59a2-4cc3-b896-64e28bc60ced___PSU_CG 2108_newPixel25.JPG,Tomato___Tomato_mosaic_virus,Tomato___Target_Spot
+389ecffc-2ab0-4c7e-9f03-d6d4695d4f6a___RS_Late.B 5117.JPG,Tomato___Late_blight,Tomato___Leaf_Mold
+2b21cbfc-9c23-42fb-984c-9439fa891a4c___RS_HL 9637_newPixel25.JPG,Tomato___healthy,Tomato___Target_Spot
+125fd81c-7948-45e1-8550-f7c7b8f6932a___JR_FrgE.S 8807_270deg.JPG,Apple___Black_rot,Apple___Apple_scab
+7dbdcba3-395b-413e-bc22-cd0d0e11a1c9___FREC_Scab 3363.JPG,Apple___Apple_scab,Apple___Cedar_apple_rust
+f83ffde3-b817-44cb-a397-979a9eb0d747___Com.G_TgS_FL 9825.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+f5eec0e2-699a-484e-91dd-c91f6c03a2c5___Com.G_SpM_FL 8547.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot
+801083ae-26f9-4a9a-9e9a-f73fb18b67e5___RS_Erly.B 7363.JPG,Tomato___Early_blight,Apple___Black_rot
+08f0fd0e-d4b1-400d-9df1-2d61d24c95f0___Com.G_SpM_FL 9397.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot
+bd0e0dde-52fd-4c18-ad4e-0e3cc10c920f___UF.GRC_YLCV_Lab 08441.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Bacterial_spot
+cf65a122-3455-40dc-8ba0-f6f71c4b0782___FREC_C.Rust 3673_180deg.JPG,Apple___Cedar_apple_rust,Tomato___Late_blight
+e0d2045f-215f-4aeb-be90-0859ce7c49cc___FREC_C.Rust 3613.JPG,Apple___Cedar_apple_rust,Tomato___Late_blight
+1b855a60-d30c-4ed9-8f25-cffe523b436b___GH_HL Leaf 249.1_newPixel25.JPG,Tomato___healthy,Apple___Cedar_apple_rust
+859a134c-51f7-4294-bd1a-78140d775bca___RS_Erly.B 8327_flipTB.JPG,Tomato___Early_blight,Tomato___Late_blight
+d3ebceea-8021-4168-85a4-27ef48cdaacb___RS_Erly.B 7857.JPG,Tomato___Early_blight,Tomato___Spider_mites Two-spotted_spider_mite
+d648ce42-6742-44b2-95b9-a01b24e3054a___RS_Late.B 6116.JPG,Tomato___Late_blight,Tomato___Target_Spot
+4959798b-5c9b-4f8e-b0a0-3778259614b1___CG1.JPG,Tomato___healthy,Tomato___Late_blight
+68692dbf-ecab-4946-b432-a79046e67cde___Com.G_SpM_FL 9658.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot
+26a31865-1d42-4bd6-8b67-02cbedfd6f64___FREC_Scab 3516_270deg.JPG,Apple___Apple_scab,Tomato___Septoria_leaf_spot
+31df9041-c8b0-4ebb-93f7-cdac5338723b___GHLB Leaf 3.1 Day 1.JPG,Tomato___Late_blight,Apple___Black_rot
+4b7c40cd-b145-4945-b649-3576a1d898dc___FREC_Scab 3343_new30degFlipLR.JPG,Apple___Apple_scab,Apple___Cedar_apple_rust
+5c057128-2d09-4757-8e44-520fb30f2b60___RS_HL 0525.JPG,Tomato___healthy,Tomato___Spider_mites Two-spotted_spider_mite
+68055370-6691-48ef-b3e5-abbceed4149d___Com.G_TgS_FL 0639.JPG,Tomato___Target_Spot,Tomato___Septoria_leaf_spot
+aa358a07-3140-4f44-861b-dcd99f943b09___RS_Late.B 5542.JPG,Tomato___Late_blight,Tomato___Target_Spot
+0d2bcda8-8dae-408e-8919-21dfa6cc9eea___RS_HL 0335.JPG,Tomato___healthy,Tomato___Target_Spot
+9667b27d-09e8-4776-97bf-e6088227d26d___Crnl_L.Mold 6670_flipTB.JPG,Tomato___Leaf_Mold,Tomato___Early_blight
+d3a8ca44-1af2-4673-9ce5-053f7d8ada99___YLCV_NREC 2113.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Leaf_Mold
+e592659e-566b-454b-95ba-851f3a53197c___RS_Erly.B 7843_flipTB.JPG,Tomato___Early_blight,Tomato___Leaf_Mold
+240300f1-a601-4363-84e8-670af8a124a1___RS_Erly.B 7762_flipTB.JPG,Tomato___Early_blight,Tomato___Target_Spot
+d7a7fc0c-131e-41ef-ac68-8c005f9123d0___Com.G_TgS_FL 8183.JPG,Tomato___Target_Spot,Tomato___Late_blight
+435f78a8-70a8-4df9-b227-c6230301a17e___RS_Late.B 6672.JPG,Tomato___Late_blight,Tomato___Early_blight
+2e129fc6-f9d3-41d3-a562-c69e72871006___Matt.S_CG 0982_180deg.JPG,Tomato___Septoria_leaf_spot,Apple___healthy
+803fcf75-7e13-45a8-bb3d-352140702555___RS_HL 5677.JPG,Apple___healthy,Apple___Black_rot
+7f9211d8-d3f6-4b8e-917c-0cd74a77bc42___GCREC_Bact.Sp 6276.JPG,Tomato___Bacterial_spot,Tomato___Early_blight
+cdb4821f-1d1b-4f61-982f-2057ca1b7ecb___FREC_C.Rust 4270_newGRR.JPG,Apple___Cedar_apple_rust,Tomato___healthy
+ea1ab7b8-3490-4fb1-acc6-fc95b14f625a___Com.G_TgS_FL 0946.JPG,Tomato___Target_Spot,Apple___healthy
+16ac8a43-f720-4fd9-ac41-016523612f38___RS_Late.B 4898.JPG,Tomato___Late_blight,Tomato___Early_blight
+13affc42-3a89-4a99-97aa-98f41682a71e___UF.GRC_BS_Lab Leaf 0546.JPG,Tomato___Bacterial_spot,Tomato___Late_blight
+26a31865-1d42-4bd6-8b67-02cbedfd6f64___FREC_Scab 3516_new30degFlipLR.JPG,Apple___Apple_scab,Tomato___Septoria_leaf_spot
+1547f817-6a4d-4cbc-8ce0-7dff293562ee___FREC_Scab 3194.JPG,Apple___Apple_scab,Apple___healthy
+9498ce3a-8dc1-43ec-aeec-a05825cf9af2___RS_Erly.B 7820_180deg.JPG,Tomato___Early_blight,Apple___Black_rot
+ce66e153-f85b-45e2-bb33-b8f52c06722a___UF.GRC_YLCV_Lab 01943.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Apple___Cedar_apple_rust
+907d3187-4443-47c6-a006-5683efdc3f95___Com.G_TgS_FL 0705.JPG,Tomato___Target_Spot,Tomato___Late_blight
+d1dfc5c2-9605-419b-826f-58691f793758___JR_Sept.L.S 2674.JPG,Tomato___Septoria_leaf_spot,Tomato___Leaf_Mold
+f93578b3-4b98-4b13-95c3-495c656963f4___RS_Erly.B 8340_180deg.JPG,Tomato___Early_blight,Tomato___Septoria_leaf_spot
+bd0d0b69-ef6e-43d9-b65c-b01e3b1f8e39___Matt.S_CG 1012.JPG,Tomato___Septoria_leaf_spot,Tomato___Bacterial_spot
+82358168-b9f4-499b-8a19-b5dcf8796b61___Com.G_TgS_FL 0997.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+2598e4ba-1e3c-43f7-bb7d-da6164209acf___RS_Late.B 4850.JPG,Tomato___Late_blight,Tomato___Early_blight
+b9478b81-3911-4589-b169-84c1e1971906___RS_Late.B 5579.JPG,Tomato___Late_blight,Tomato___Early_blight
+83187e59-90ea-4ca2-8a87-e8801e6fa900___UF.GRC_YLCV_Lab 02212.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Bacterial_spot
+02fe963e-7c68-4fd3-9f8f-36bf9e153c20___GHLB2 Leaf 8581_flipLR.JPG,Tomato___Late_blight,Tomato___Early_blight
+419c16b2-13aa-485b-8342-3760707e21f9___FREC_Scab 3285_270deg.JPG,Apple___Apple_scab,Apple___healthy
+95c4cd26-0d05-410a-b61e-6fd459a4be56___Com.G_TgS_FL 1121.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+9bfa2e5e-1457-49c6-96db-cc6b4a5f4d74___Matt.S_CG 7457.JPG,Tomato___Septoria_leaf_spot,Tomato___Target_Spot
+1b6fd6e2-8917-473f-9c8c-b14f639e13a9___JR_Sept.L.S 2709_180deg.JPG,Tomato___Septoria_leaf_spot,Apple___Black_rot
+d989b5d3-715f-4d85-8475-0a2ec3beaa98___RS_Late.B 5022.JPG,Tomato___Late_blight,Tomato___Leaf_Mold
+1bcc3b5d-7e00-43fb-983e-95ae271a715b___FREC_Scab 3061.JPG,Apple___Apple_scab,Tomato___Late_blight
+140136da-2b1c-4a29-b984-31e693c10d1c___Com.G_SpM_FL 9442.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot
+aaac4e3a-fe49-435a-a933-e7099b3456a5___Crnl_L.Mold 9093.JPG,Tomato___Leaf_Mold,Tomato___Target_Spot
+98916e40-9711-49d6-af8b-77c10be459e2___Com.G_SpM_FL 8551.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot
+cb69a638-a813-423e-8cf4-efedbd499401___YLCV_NREC 2721.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Spider_mites Two-spotted_spider_mite
+2efd143b-619d-455d-9b16-95536cad01e3___RS_Erly.B 7780.JPG,Tomato___Early_blight,Tomato___Target_Spot
+d85a58df-b7e9-4552-b067-fe9fa070ce4e___Com.G_TgS_FL 9686.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+06f7c4e6-abd5-4399-9083-ed241a9c4bab___RS_Late.B 5407_flipLR.JPG,Tomato___Late_blight,Tomato___Leaf_Mold
+0a7714a4-530b-49e0-821f-be8d33c588ac___Com.G_SpM_FL 1775_flipTB.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot
+393946a5-3f5d-4ed3-af1f-fcb7647b369d___GCREC_Bact.Sp 6190.JPG,Tomato___Bacterial_spot,Apple___healthy
+d6513bff-a877-4482-88d0-699396af3862___JR_Sept.L.S 8419.JPG,Tomato___Septoria_leaf_spot,Tomato___Leaf_Mold
+904a5f71-4358-44b5-98ff-3681df988769___Crnl_L.Mold 6601.JPG,Tomato___Leaf_Mold,Tomato___Spider_mites Two-spotted_spider_mite
+3d59267d-cf74-4354-a41c-d3f79783fcfd___Com.G_SpM_FL 8667_flipTB.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Early_blight
+a0db48a5-bbb6-4374-ad9f-8132e33280f5___RS_Erly.B 7791_180deg.JPG,Tomato___Early_blight,Tomato___Target_Spot
+04167585-5400-4bdb-b58b-c5e944a1ecd8___YLCV_NREC 0079.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Spider_mites Two-spotted_spider_mite
+2224e59e-d71f-4d3e-8d48-7dc90551aeb1___UF.GRC_BS_Lab Leaf 0251.JPG,Tomato___Bacterial_spot,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+460e4daf-39e2-48d0-9a85-52442fc36e14___RS_Late.B 6688.JPG,Tomato___Late_blight,Tomato___Septoria_leaf_spot
+3f76904f-64db-46e5-98e0-6b08d528b459___Com.G_SpM_FL 9370_180deg.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot
+cd18fd71-59d6-4d48-8c52-d31ff68f1fe2___RS_HL 5716.JPG,Apple___healthy,Apple___Apple_scab
+bc5fd090-21b4-42d8-82b7-354a7697dc22___RS_Late.B 5546.JPG,Tomato___Late_blight,Tomato___Early_blight
+85550b3b-28a6-4489-ae91-63ea771622ae___RS_Late.B 5539.JPG,Tomato___Late_blight,Tomato___Early_blight
+20c3bfbf-a2c7-425c-9ad7-bd1ec8f3b181___JR_Sept.L.S 2656.JPG,Tomato___Septoria_leaf_spot,Tomato___Early_blight
+0334d40b-d880-442f-a7db-e5c85a2e0bed___RS_Late.B 6367.JPG,Tomato___Late_blight,Tomato___Early_blight
+7f3884a8-82eb-4db8-b5c2-cc3f6dbe0cf9___RS_Late.B 6196_flipLR.JPG,Tomato___Late_blight,Tomato___healthy
+b2b63d7c-d8f7-44ff-b53e-6214ddbed5d9___RS_Erly.B 9509_180deg.JPG,Tomato___Early_blight,Tomato___Septoria_leaf_spot
+2edc83c5-b45e-4f4e-ba56-1ff26c33abea___RS_Late.B 5614.JPG,Tomato___Late_blight,Tomato___Target_Spot
+093309e9-6802-4e67-9d9c-b944aff0f743___Com.G_TgS_FL 9732.JPG,Tomato___Target_Spot,Tomato___Septoria_leaf_spot
+3956f2c5-b3a4-49a4-8612-c7003d62698b___RS_Late.B 6287.JPG,Tomato___Late_blight,Tomato___Early_blight
+3b0062a2-2013-4dc6-9d61-4c74ae4b295a___JR_Sept.L.S 2484_180deg.JPG,Tomato___Septoria_leaf_spot,Tomato___Late_blight
+537873ed-fc63-4df3-bb6a-a5bf4c742619___FREC_Scab 3505.JPG,Apple___Apple_scab,Tomato___Leaf_Mold
+0dd9d965-d68a-4e47-ba02-ebcadf13c7ae___GHLB2 Leaf 78.1.JPG,Tomato___Late_blight,Apple___Cedar_apple_rust
+07b42bb5-9f6c-43bc-9bbe-e4b127d84cb6___GHLB Leaf 18.1 Day 8_flipLR.jpg,Tomato___Late_blight,Apple___Cedar_apple_rust
+421329db-4c95-4900-9e1f-c68be8473701___Com.G_TgS_FL 0640.JPG,Tomato___Target_Spot,Tomato___Early_blight
+7e4224e3-dd76-4041-8fe2-c9abf67d3a98___RS_Late.B 6630.JPG,Tomato___Late_blight,Tomato___Early_blight
+dfd261ab-30ad-456c-93b3-874a4ebaeaaf___RS_Erly.B 8451.JPG,Tomato___Early_blight,Tomato___Septoria_leaf_spot
+3a6faf8e-3b27-4498-aca9-45f9e4158a56___GHLB2 Leaf 112.1_flipLR.JPG,Tomato___Late_blight,Tomato___Bacterial_spot
+9cbb6419-1670-45d5-a8ad-90cf9eaac971___FREC_Scab 3075_new30degFlipLR.JPG,Apple___Apple_scab,Apple___Black_rot
+270ca100-e754-4ed1-9fe8-0d3270cba958___RS_HL 5660.JPG,Apple___healthy,Tomato___Early_blight
+9fd8d7c3-3321-49fc-a7dc-165ccc353c78___FREC_Scab 3177_new30degFlipLR.JPG,Apple___Apple_scab,Tomato___Late_blight
+5a69db0e-6144-4ef2-b25b-9e2a1ffe1c3b___Com.G_TgS_FL 9710_flipTB.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+ab782c5e-dfe5-40ff-96ab-a3216bdeff42___JR_Sept.L.S 8383.JPG,Tomato___Septoria_leaf_spot,Tomato___Early_blight
+e7391b48-0b36-41fd-81f0-35c6b5a24d0a___Crnl_L.Mold 6761.JPG,Tomato___Leaf_Mold,Tomato___Early_blight
+f718db12-7a16-437d-905c-f804e21383c8___Com.G_SpM_FL 1353.JPG,Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot
+2f1e68c0-c059-46fd-bbf3-f160817abdc3___FREC_Scab 3535.JPG,Apple___Apple_scab,Apple___healthy
+00e7c4b2-3005-4558-9cfa-235e356cb7a8___RS_Erly.B 7844.JPG,Tomato___Early_blight,Tomato___Late_blight
+afc527c5-c9b2-478b-8df0-ff66767191df___RS_Erly.B 7473_180deg.JPG,Tomato___Early_blight,Tomato___Leaf_Mold
+4acbd8cc-eab9-466d-9d1c-065213652abc___Com.G_TgS_FL 9855_180deg.JPG,Tomato___Target_Spot,Tomato___Tomato_mosaic_virus
+b49ac002-7dfe-44c4-8041-c4564b77420c___Com.G_TgS_FL 8366.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+4d79f0a2-0f8a-406b-84de-2c7e74027d6f___JR_FrgE.S 3061_270deg.JPG,Apple___Black_rot,Tomato___Early_blight
+c991e311-e10c-4505-a01a-3ad7c92d3e3b___RS_Late.B 7194.JPG,Tomato___Late_blight,Tomato___Early_blight
+680b86dc-14e0-4668-95c8-776193015146___RS_Erly.B 7854_180deg.JPG,Tomato___Early_blight,Tomato___Late_blight
+0a4b3cde-c83a-4c83-b037-010369738152___RS_Late.B 6985.JPG,Tomato___Late_blight,Tomato___Early_blight
+9667b27d-09e8-4776-97bf-e6088227d26d___Crnl_L.Mold 6670.JPG,Tomato___Leaf_Mold,Tomato___Early_blight
+4cba9d9a-65a4-4ebf-a11b-7995327b3f01___Com.G_TgS_FL 0862_flipTB.JPG,Tomato___Target_Spot,Tomato___healthy
+2b37aa48-ff2a-461d-97db-bf92628edde1___RS_Late.B 7086_flipLR.JPG,Tomato___Late_blight,Tomato___healthy
+de7adfd4-221a-4564-8937-6ae593891fbd___RS_Late.B 5219.JPG,Tomato___Late_blight,Tomato___Early_blight
+8af472ce-108f-4478-807f-cdf8f4cbdceb___PSU_CG 2218.JPG,Tomato___Tomato_mosaic_virus,Tomato___Spider_mites Two-spotted_spider_mite
+680b86dc-14e0-4668-95c8-776193015146___RS_Erly.B 7854_flipTB.JPG,Tomato___Early_blight,Tomato___Late_blight
+f7c52821-b74c-486c-bf18-e0cbcba2adac___YLCV_GCREC 5142.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Leaf_Mold
+1da58848-43c5-44ce-974e-bdd0b3c6e7d5___JR_Sept.L.S 8363.JPG,Tomato___Septoria_leaf_spot,Tomato___Early_blight
+efe14014-c5b8-433b-a469-e10ca8d7c551___RS_Erly.B 7499_180deg.JPG,Tomato___Early_blight,Tomato___Late_blight
+1bd1e7a3-614e-4ae4-8707-effd2b0e42fb___Com.G_TgS_FL 0688_newPixel25.JPG,Tomato___Target_Spot,Tomato___healthy
+45512c84-e453-459c-b12f-1d08ce44001b___FREC_Scab 3072_90deg.JPG,Apple___Apple_scab,Apple___Black_rot
+f0763973-1898-4ae6-9350-c9b61976c600___RS_Erly.B 6456.JPG,Tomato___Early_blight,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+65c52553-6152-46d4-a576-3ef4984a6ad4___FREC_Scab 3524_90deg.JPG,Apple___Apple_scab,Apple___healthy
+c5119850-2956-4fc2-a612-0ce626fe3f99___GCREC_Bact.Sp 3637.JPG,Tomato___Bacterial_spot,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+b0a74f61-0012-4b6c-b528-bbce1b79c588___GCREC_Bact.Sp 3805.JPG,Tomato___Bacterial_spot,Tomato___Target_Spot
+6643566f-d980-4bdb-88d7-4d3ab3c771fa___FREC_Scab 3038.JPG,Apple___Apple_scab,Tomato___Late_blight
+321c7135-853f-444d-9952-a893e660d966___FREC_Scab 2958_90deg.JPG,Apple___Apple_scab,Apple___healthy
+0a334ae6-bea3-4453-b200-85e082794d56___GH_HL Leaf 310.1_new30degFlipLR.JPG,Tomato___healthy,Apple___Cedar_apple_rust

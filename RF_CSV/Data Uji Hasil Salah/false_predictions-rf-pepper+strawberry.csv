@@ -1,0 +1,15 @@
+Filename,True Labels,Predicted Labels
+7614ff40-fd01-4c7c-929f-f74814c5de74___RS_L.Scorch 1448.JPG,Strawberry___Leaf_scorch,Strawberry___healthy
+ca33c3f3-52d8-4401-8a6a-962a9b13f11d___RS_L.Scorch 9912_flipLR.JPG,Strawberry___Leaf_scorch,"Pepper,_bell___Bacterial_spot"
+1be321d5-d2cc-4945-b2f3-a36c41160838___JR_HL 7596_new30degFlipLR.JPG,"Pepper,_bell___healthy",Strawberry___healthy
+0e57b44f-bb06-43ec-8688-5a7985b461e7___JR_B.Spot 8970.JPG,"Pepper,_bell___Bacterial_spot","Pepper,_bell___healthy"
+4ab14ef2-ad45-4df6-87ce-1ffd11ad5543___JR_HL 7899_flipTB.JPG,"Pepper,_bell___healthy","Pepper,_bell___Bacterial_spot"
+9728896c-149f-415b-86b3-ef5b95dd9143___JR_B.Spot 8862.JPG,"Pepper,_bell___Bacterial_spot","Pepper,_bell___healthy"
+174172a7-b8c3-4afc-aa95-637c08472656___JR_HL 7923.JPG,"Pepper,_bell___healthy","Pepper,_bell___Bacterial_spot"
+71f8c314-ef34-4521-b575-e06f8455f449___RS_L.Scorch 9965.JPG,Strawberry___Leaf_scorch,"Pepper,_bell___Bacterial_spot"
+a2237a92-dce1-469e-ba88-657d40f55319___NREC_B.Spot 9122.JPG,"Pepper,_bell___Bacterial_spot","Pepper,_bell___healthy"
+67db4fa4-922e-47f8-bf79-7dbb87adf47b___RS_HL 1986_270deg.JPG,Strawberry___healthy,"Pepper,_bell___healthy"
+69e109a9-8cfb-427e-8e3c-f327edb59164___JR_B.Spot 9081_flipTB.JPG,"Pepper,_bell___Bacterial_spot","Pepper,_bell___healthy"
+3bf6ef5b-f492-4aee-ae35-bd5a0260fdaf___JR_HL 7988_flipTB.JPG,"Pepper,_bell___healthy",Strawberry___healthy
+4ab14ef2-ad45-4df6-87ce-1ffd11ad5543___JR_HL 7899.JPG,"Pepper,_bell___healthy","Pepper,_bell___Bacterial_spot"
+d4f5ce4f-56e2-4e4c-b696-e760f02fe2a5___NREC_B.Spot 1928.JPG,"Pepper,_bell___Bacterial_spot","Pepper,_bell___healthy"

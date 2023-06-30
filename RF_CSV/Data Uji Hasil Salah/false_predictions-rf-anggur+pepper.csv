@@ -1,0 +1,21 @@
+Filename,True Labels,Predicted Labels
+f7496493-4e86-4984-b551-e81d964b9366___FAM_L.Blight 4792_flipLR.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape___healthy
+be4475e2-a944-42de-97f2-5e88d7b3de56___FAM_L.Blight 1528.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape___Black_rot
+a4c5a74b-eb17-495c-bdae-b25268069139___FAM_B.Msls 1881.JPG,Grape___Esca_(Black_Measles),Grape___Black_rot
+9858eca1-78cb-4c9c-9286-ff52a27d7c2f___Mt.N.V_HL 9037_180deg.JPG,Grape___healthy,"Pepper,_bell___healthy"
+43c2e0a8-2007-48cf-9f06-af5a3d651298___FAM_B.Rot 0623.JPG,Grape___Black_rot,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+9858eca1-78cb-4c9c-9286-ff52a27d7c2f___Mt.N.V_HL 9037.JPG,Grape___healthy,Grape___Black_rot
+3306b49b-e3b3-4450-8609-ae44ab2b6593___bell-pepper-plant-61726.jpg,"Pepper,_bell___healthy","Pepper,_bell___Bacterial_spot"
+513c17f5-6161-4fca-975b-d8dca8912fdc___FAM_B.Rot 0591.JPG,Grape___Black_rot,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+03c1559d-52a2-455f-b682-5c3d266b05b7___FAM_B.Msls 3814.JPG,Grape___Esca_(Black_Measles),Grape___Black_rot
+1e8bbe2c-7889-4fd1-8e77-dd01959007ab___FAM_B.Msls 0858.JPG,Grape___Esca_(Black_Measles),Grape___Black_rot
+d0f85383-4cd9-4562-9978-206cbbf7d22a___FAM_B.Msls 1876.JPG,Grape___Esca_(Black_Measles),Grape___Black_rot
+1f826aa9-11b8-40c5-9206-f70c7138c673___FAM_B.Msls 1737.JPG,Grape___Esca_(Black_Measles),Grape___Black_rot
+74b13f0b-97d0-48be-94c1-2ecef2e2ad6a___FAM_B.Rot 3237.JPG,Grape___Black_rot,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+79a36ce0-653e-4607-a6ac-bfa5e0209fc2___FAM_L.Blight 4767_flipLR.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),"Pepper,_bell___Bacterial_spot"
+111b8c34-4f71-4c88-949c-11a8369da8eb___FAM_B.Msls 1297_flipLR.JPG,Grape___Esca_(Black_Measles),Grape___Black_rot
+f00f7ab3-5f23-4088-90e4-c6dcbb08333b___FAM_B.Rot 0588_flipLR.JPG,Grape___Black_rot,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+1dd236c3-5ff0-4a03-996f-e832b50dff82___JR_HL 8787_new30degFlipLR.JPG,"Pepper,_bell___healthy",Grape___healthy
+56a3748f-881d-4adb-ab0a-85b5cc6883a9___NREC_B.Spot 9180_flipTB.JPG,"Pepper,_bell___Bacterial_spot","Pepper,_bell___healthy"
+125b2ab2-473d-4b42-adc5-f0619bf48b91___FAM_B.Msls 1256.JPG,Grape___Esca_(Black_Measles),Grape___Black_rot
+30ad861e-dbf8-4431-a300-b701693faf9a___FAM_L.Blight 0789_flipLR.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape___Black_rot

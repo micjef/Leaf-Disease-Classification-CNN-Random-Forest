@@ -1,0 +1,22 @@
+Filename,True Labels,Predicted Labels
+cfb93659-94c6-4ff3-8104-bae70c975bde___RS_HL 5666_flipTB.JPG,Apple___healthy,Apple___Black_rot
+6643566f-d980-4bdb-88d7-4d3ab3c771fa___FREC_Scab 3038.JPG,Apple___Apple_scab,Apple___Cedar_apple_rust
+f3676c6a-f226-4bc7-b3d4-c9537de075f4___RS_HL 7963_flipTB.JPG,Apple___healthy,Apple___Apple_scab
+87ea6ae6-eaf6-468d-85cd-cded92ba526f___FREC_C.Rust 9963.JPG,Apple___Cedar_apple_rust,Apple___Black_rot
+1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531_270deg.JPG,Apple___Apple_scab,Apple___Black_rot
+51929389-451f-4c78-a66b-b644e82a33b6___FREC_Scab 3528.JPG,Apple___Apple_scab,Apple___Black_rot
+65c52553-6152-46d4-a576-3ef4984a6ad4___FREC_Scab 3524_90deg.JPG,Apple___Apple_scab,Apple___healthy
+95742a3e-9664-496c-8e3d-90bdd9299ae5___RS_HL 7298.JPG,Apple___healthy,Apple___Apple_scab
+89699048-94c3-4389-9a86-13e73dfd23c6___RS_HL 7257.JPG,Apple___healthy,Apple___Apple_scab
+d91b6c09-9022-4860-98fb-643c0ec85fe3___RS_HL 7965.JPG,Apple___healthy,Apple___Apple_scab
+fcfc7057-7de6-466b-9f7e-9b767deaf266___FREC_C.Rust 3807_180deg.JPG,Apple___Cedar_apple_rust,Apple___Apple_scab
+7e64fdef-9cb7-40ed-9f40-f3c97d6e0e8a___FREC_Scab 3536.JPG,Apple___Apple_scab,Apple___healthy
+1021c460-93e4-48cd-9c84-c576b2c5117c___JR_FrgE.S 2983_90deg.JPG,Apple___Black_rot,Apple___healthy
+4e6311ab-8927-4147-9857-a669f2268cb1___JR_FrgE.S 8726_270deg.JPG,Apple___Black_rot,Apple___Apple_scab
+1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531_90deg.JPG,Apple___Apple_scab,Apple___Black_rot
+1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531_new30degFlipLR.JPG,Apple___Apple_scab,Apple___Black_rot
+9d3b64cb-6af0-49b7-a488-2e8af4caff65___RS_HL 7330.JPG,Apple___healthy,Apple___Apple_scab
+65c52553-6152-46d4-a576-3ef4984a6ad4___FREC_Scab 3524.JPG,Apple___Apple_scab,Apple___healthy
+fb942296-ba33-40e5-ada0-6700365cf71d___FREC_Scab 2919_270deg.JPG,Apple___Apple_scab,Apple___healthy
+419c16b2-13aa-485b-8342-3760707e21f9___FREC_Scab 3285_90deg.JPG,Apple___Apple_scab,Apple___healthy
+fcfc7057-7de6-466b-9f7e-9b767deaf266___FREC_C.Rust 3807_270deg.JPG,Apple___Cedar_apple_rust,Apple___Apple_scab

@@ -1,0 +1,176 @@
+Filename,True Labels,Predicted Labels
+1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531_270deg.JPG,Apple___Apple_scab,Apple___Black_rot
+f73f0a24-d25e-4a0c-9e68-3b57d467090d___JR_B.Spot 8829.JPG,"Pepper,_bell___Bacterial_spot",Apple___Black_rot
+e1e8a707-d2b0-4cb6-ae56-c26a5e9ff016___JR_FrgE.S 8761.JPG,Apple___Black_rot,"Pepper,_bell___Bacterial_spot"
+70f07cb5-244a-4140-99fb-0cc87e8914d5___RS_GLSp 4429.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+295e2145-800f-4c3c-9728-e45b1cd8e113___RS_GLSp 4316.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+2174d811-b088-4b31-8088-1738630b94d4___RS_GLSp 4467.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+f467b585-f959-44e3-b134-d219db34fd7f___Rut._Bact.S 3394.JPG,Peach___Bacterial_spot,Potato___Late_blight
+b7fb9cd4-1b3a-400d-8520-514e5dedc7f3___RS_GLSp 4632.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+dc4214fc-6108-45f1-866a-0be4e35e4e4d___Rut._Bact.S 0908.JPG,Peach___Bacterial_spot,Peach___healthy
+b90e9742-8e01-4e22-9ab4-ca8425090118___FAM_B.Rot 0393_flipLR.JPG,Grape___Black_rot,Peach___Bacterial_spot
+66408ce6-6721-4c8c-b454-ab258fb71661___Rutg._HL 3510.JPG,Peach___healthy,Peach___Bacterial_spot
+af17b876-b0e7-43ce-95e8-8591066dfdc9___RS_LB 3976_180deg.JPG,Potato___Late_blight,Potato___healthy
+21414b15-f3a6-4f37-af6c-7374939ecae9___RS_L.Scorch 0015.JPG,Strawberry___Leaf_scorch,Corn_(maize)___Northern_Leaf_Blight
+5915c9ee-e086-4a22-aab5-a4ad14b155d1___FAM_L.Blight 1529_flipLR.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape___Black_rot
+6a9a646a-60df-4044-94bc-fc3f0fad2fca___FAM_B.Rot 3235.JPG,Grape___Black_rot,Grape___Esca_(Black_Measles)
+0527ab7c-4ebe-4fd5-8254-ceea1b147005___RS_NLB 3925.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+bf437495-ab1b-459e-8173-6619a07ee8c6___JR_B.Spot 3139.JPG,"Pepper,_bell___Bacterial_spot",Apple___Black_rot
+dfe650bb-d16a-47ed-85d2-25abcbd0f152___RS_GLSp 4612.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+4b5683c4-ef68-4439-b346-f76ea2c651da___JR_FrgE.S 8639.JPG,Apple___Black_rot,Cherry_(including_sour)___healthy
+ad7637de-7c1f-4ec7-a3d6-14032337a6c3___FREC_Pwd.M 5163_flipLR.JPG,Cherry_(including_sour)___Powdery_mildew,Apple___healthy
+a59613ab-cd77-44b0-867b-739c65805b73___Rut._Bact.S 0997.JPG,Peach___Bacterial_spot,"Pepper,_bell___Bacterial_spot"
+0e1942a4-91d7-460a-8189-1a4e693cfc84___JR_HL 8896_180deg.JPG,"Pepper,_bell___healthy",Cherry_(including_sour)___healthy
+98208610-36ea-4082-97a2-9c2c8a5dd00f___RS_L.Scorch 0095.JPG,Strawberry___Leaf_scorch,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+f0519795-ad80-4e8c-9b03-71843202c86e___RS_GLSp 7284_90deg.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Apple___Apple_scab
+6ca296db-0f5c-4002-bbb9-ef4a4d60aea7___JR_HL 5847_newPixel25.JPG,"Pepper,_bell___healthy",Potato___healthy
+11b9b0d7-738b-407b-8ca4-4c6500e6aebd___RS_NLB 3892.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+9125d133-5b86-4363-8fbe-79c813ac8795___RS_Early.B 6748.JPG,Potato___Early_blight,Apple___healthy
+682e8658-0a23-48fb-a3d6-6c920d0943da___Rutg._HL 3547_90deg.JPG,Peach___healthy,Apple___healthy
+c762e867-0f8b-459e-b870-10090256d9bf___JR_FrgE.S 8723_90deg.JPG,Apple___Black_rot,"Pepper,_bell___Bacterial_spot"
+1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531_90deg.JPG,Apple___Apple_scab,Apple___Black_rot
+e54ced2f-6766-41f4-99d5-87ffc2a81cbc___JR_FrgE.S 8694_90deg.JPG,Apple___Black_rot,Peach___Bacterial_spot
+1344cdd8-d33e-48a3-bf96-6a388e6b4fb6___JR_HL 9858_flipTB.JPG,Cherry_(including_sour)___healthy,"Pepper,_bell___healthy"
+71f1ee92-e98d-41e7-b129-2f9c97331f97___JR_HL 9869_180deg.JPG,Cherry_(including_sour)___healthy,Apple___Black_rot
+c1bed3be-64c9-403b-b633-17c82ae5f371___RS_L.Scorch 0164_flipLR.JPG,Strawberry___Leaf_scorch,Peach___Bacterial_spot
+cfb93659-94c6-4ff3-8104-bae70c975bde___RS_HL 5666.JPG,Apple___healthy,Apple___Cedar_apple_rust
+5227377f-ffad-4c90-8bd6-a778cae82e1f___Rutg._HL 3599_180deg.JPG,Peach___healthy,Apple___healthy
+a2024303-1e78-4f1b-80b4-3f02f9f5dceb___RS_HL 7707.JPG,Apple___healthy,Apple___Apple_scab
+1eb748f8-0734-45b6-a3d6-fe97a30be78e___FAM_L.Blight 1378.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape___Black_rot
+93eaec77-3e91-415a-a029-c054a42c18aa___RS_Early.B 8296_180deg.JPG,Potato___Early_blight,Corn_(maize)___Northern_Leaf_Blight
+8a92c94e-8128-4c39-9ead-eebf6f3fe74d___FAM_B.Rot 3205.JPG,Grape___Black_rot,Grape___healthy
+025f3c76-6d6c-4dad-ba22-e3e72d084ef1___RS_LB 3105.JPG,Potato___Late_blight,Potato___Early_blight
+4ef8432c-0114-4c67-a5f0-a4935597dc68___JR_FrgE.S 8698_90deg.JPG,Apple___Black_rot,"Pepper,_bell___Bacterial_spot"
+dd626944-0c5a-4053-80b7-21cdd3896702___Rut._Bact.S 3444.JPG,Peach___Bacterial_spot,Strawberry___Leaf_scorch
+9c620128-2872-4bbb-bc14-d5b785242cf6___RS_HL 1751_180deg.JPG,Potato___healthy,"Pepper,_bell___healthy"
+275ea053-96ab-45d9-9878-3c855ea1a308___RS_GLSp 4496.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+5d204d2a-292f-4862-a704-cb03145ca5b1___RS_NLB 4057.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+35aaee78-3936-4cf4-87cd-5fd74a1d031b___RS_NLB 3889_180deg.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+fde20c63-cca2-4edb-9e6c-77b3a7f95cbd___JR_B.Spot 3400.JPG,"Pepper,_bell___Bacterial_spot",Apple___Black_rot
+06830ecc-28d2-4ec9-a553-4d7905a12dbf___RS_GLSp 4355 copy.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+7050bb1d-af0d-47c4-8f35-23b9561b8024___RS_LB 3313_flipTB.JPG,Potato___Late_blight,Potato___healthy
+3306b49b-e3b3-4450-8609-ae44ab2b6593___bell-pepper-plant-61726.jpg,"Pepper,_bell___healthy",Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+45000608-507a-46f5-be52-3ee24d0fb47d___FREC_Scab 3113_270deg.JPG,Apple___Apple_scab,Apple___healthy
+bbea95f8-cc26-40b6-9436-228f70d605d7___RS_GLSp 7332.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+76df2cc6-af5f-4f86-9dd7-d637936f9572___RS_GLSp 4609.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+12c953a0-bd3e-45d0-aaea-5139f5d63e01___JR_B.Spot 8863.JPG,"Pepper,_bell___Bacterial_spot","Pepper,_bell___healthy"
+7b371f7e-a8de-4b89-812d-0526237a6fea___JR_B.Spot 3404.JPG,"Pepper,_bell___Bacterial_spot",Apple___Black_rot
+dcea72e4-ea95-43b3-8676-3d46188fc8e0___JR_FrgE.S 8813.JPG,Apple___Black_rot,Cherry_(including_sour)___healthy
+9103b8e5-919c-4d08-a282-25176874769c___RS_GLSp 4653.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+f79c50ef-d89d-4371-b581-810b37eb2ac9___FREC_Scab 3255.JPG,Apple___Apple_scab,Apple___healthy
+f1b5ec9d-ed27-4e68-8316-63dc58ef35ab___RS_HL 1693_180deg.JPG,Strawberry___healthy,Apple___healthy
+59726309-40b6-498d-a487-ff2d8fc455a8___RS_GLSp 4686.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+1dcc5be2-abd6-4fb3-8e75-d75b7a123e45___JR_HL 8763.JPG,"Pepper,_bell___healthy",Cherry_(including_sour)___healthy
+749a1b32-7152-4dce-87b4-92af094f6b9b___RS_LB 3310_180deg.JPG,Potato___Late_blight,Potato___healthy
+1eb748f8-0734-45b6-a3d6-fe97a30be78e___FAM_L.Blight 1378_flipLR.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape___Black_rot
+6b784953-7e31-4cec-a3d5-82f3b6bbdd00___FREC_Scab 3352_90deg.JPG,Apple___Apple_scab,Peach___Bacterial_spot
+29a79416-7d6b-45b9-b48e-c40ca10bde21___FAM_B.Rot 0617.JPG,Grape___Black_rot,Grape___Esca_(Black_Measles)
+3ea747af-ed9d-44f1-a8b6-61503adf0a4b___FREC_C.Rust 4174_newPixel25.JPG,Apple___Cedar_apple_rust,"Pepper,_bell___healthy"
+1f98b949-4df2-45cf-8572-3b4a753be21a___FREC_Scab 2907.JPG,Apple___Apple_scab,Potato___Late_blight
+0b3e5032-8ae8-49ac-8157-a1cac3df01dd___RS_HL 1817_new30degFlipTB.JPG,Potato___healthy,"Pepper,_bell___healthy"
+c944933f-ef35-443a-b9fc-a53538ebdc3e___RS_L.Scorch 9903.JPG,Strawberry___Leaf_scorch,Potato___Late_blight
+033219ed-54a8-4f95-ab72-c87b90189006___RS_NLB 3818 copy 2.jpg,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+ee8c711f-3aa3-45b8-95e4-c63f86929ab1___RS_GLSp 4444.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+34ae03ee-4314-47b1-a568-f3537bc2afba___RS_NLB 3672_flipTB.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+5786dc07-0a0f-460b-896b-2bb4a240679e___RS_GLSp 7282_90deg.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Apple___Apple_scab
+e2faa2e3-433a-4ee3-9b64-8de4ad2947e1___RS_NLB 3795_180deg.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+9d22266e-c5f3-4e5f-9c18-93ad8cf76f1c___JR_HL 9588.JPG,Cherry_(including_sour)___healthy,Potato___healthy
+b5836ce1-7bc3-425b-b311-ed8e5ea47ab9___RS_NLB 3515_180deg.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+789d2e40-b2fc-45d0-81e6-b210f09ac71e___Rutg._HL 2463.JPG,Peach___healthy,Peach___Bacterial_spot
+429f4221-c74b-4cdf-a7ab-e52f5fffd201___Rut._Bact.S 1282.JPG,Peach___Bacterial_spot,Apple___Apple_scab
+c8269293-ae8c-4ac0-8eb3-6574683f1b2e___JR_FrgE.S 8699_90deg.JPG,Apple___Black_rot,"Pepper,_bell___Bacterial_spot"
+9a9d4bac-388f-4d06-8b36-8c6734832755___JR_HL 5987.JPG,"Pepper,_bell___healthy","Pepper,_bell___Bacterial_spot"
+aa8c2cc5-1f2b-448d-ad62-b70a82fdb911___RS_L.Scorch 0113_flipLR.JPG,Strawberry___Leaf_scorch,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+e07b2429-8ae5-42dd-8ce8-1e94887ea6df___JR_FrgE.S 8812_270deg.JPG,Apple___Black_rot,Cherry_(including_sour)___healthy
+befc372d-17be-4139-80a3-325111dac124___JR_HL 3925_180deg.JPG,Cherry_(including_sour)___healthy,Apple___healthy
+2b3e46d9-09dd-4966-99c6-fe44c741b94c___RS_Early.B 8290.JPG,Potato___Early_blight,Potato___Late_blight
+08f0fe63-3c64-49a2-b413-c0de91abcafd___RS_HL 8008.JPG,Apple___healthy,Apple___Black_rot
+a4168403-2458-4f28-84f7-949050905878___RS_Early.B 8450_180deg.JPG,Potato___Early_blight,Strawberry___Leaf_scorch
+c8bfe895-d9a9-489b-82c3-a038f28640c1___FAM_B.Rot 0400_flipLR.JPG,Grape___Black_rot,Apple___Black_rot
+1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531_new30degFlipLR.JPG,Apple___Apple_scab,Apple___Black_rot
+77c75478-e1f0-4aaa-9cbc-af1fed928a74___RS_HL 1748_flipTB.JPG,Potato___healthy,"Pepper,_bell___healthy"
+fbe5df9f-3557-4682-9634-797aa1ace0e0___FAM_B.Msls 4346_flipLR.JPG,Grape___Esca_(Black_Measles),Grape___Black_rot
+6643566f-d980-4bdb-88d7-4d3ab3c771fa___FREC_Scab 3038.JPG,Apple___Apple_scab,Apple___healthy
+80bb8697-bfab-449b-b870-e1ed2089df58___RS_HL 1827_flipTB.JPG,Potato___healthy,"Pepper,_bell___healthy"
+bc5d56b1-e0e0-4271-90a7-4d4bf2ed0fd8___JR_B.Spot 8939.JPG,"Pepper,_bell___Bacterial_spot",Apple___Black_rot
+ad920597-ffed-4681-9cf4-9dbafb7da6f5___FAM_B.Rot 3007_flipLR.JPG,Grape___Black_rot,Grape___Esca_(Black_Measles)
+212c3c65-e30e-496f-ab5e-c2f4b0446d8f___RS_Early.B 8195_flipTB.JPG,Potato___Early_blight,Strawberry___Leaf_scorch
+f0b49686-1a0f-4c01-9b60-e816c513215f___RS_NLB  4506 copy_180deg.jpg,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+27292fc6-b4d8-4c2c-b0a8-36d4abf2a1a9___FAM_B.Rot 0643_flipLR.JPG,Grape___Black_rot,Grape___Esca_(Black_Measles)
+18ab74ed-8e95-4787-b2e1-1283594bd00b___FREC_Scab 3012_270deg.JPG,Apple___Apple_scab,Peach___healthy
+e10e2b0d-b03c-4181-9684-27710008c0d8___FAM_L.Blight 3784_flipLR.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape___Black_rot
+da6eb23a-534c-47cd-ac20-4c3de9c54d67___R.S_HL 8056 copy 2_flipLR.jpg,Corn_(maize)___healthy,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+a99fa7cf-65b5-4f42-a29d-47c4e2cb9f0f___Rut._Bact.S 0917.JPG,Peach___Bacterial_spot,Peach___healthy
+24ff782d-8641-4508-969a-0f1a2f4a3f48___JR_FrgE.S 8700_90deg.JPG,Apple___Black_rot,"Pepper,_bell___Bacterial_spot"
+a2355a52-d185-4cd6-93db-89b701b2b51c___JR_HL 4088_180deg.JPG,Cherry_(including_sour)___healthy,"Pepper,_bell___healthy"
+5e6846df-21b1-444c-ac0d-34c67443dbef___RS_HL 7270.JPG,Apple___healthy,Grape___healthy
+94dbcd4e-5fc8-47d6-a944-dc0cc7c6ead5___RS_GLSp 4638 copy.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+9ff013dc-f099-4a5c-a187-65f5864132a6___RS_GLSp 4397.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+01f3deaa-6143-4b6c-9c22-620a46d8be04___FREC_Scab 3112_90deg.JPG,Apple___Apple_scab,Peach___Bacterial_spot
+057e51f5-f5c1-40b2-930b-a2346c138969___RS_HL 4596.JPG,Strawberry___healthy,"Pepper,_bell___healthy"
+1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531.JPG,Apple___Apple_scab,Apple___healthy
+bc690bb9-1611-4744-844d-0ab174467f54___RS_GLSp 4582.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+7856bc05-e462-4f51-b945-b2801236d17c___RS_NLB 3881.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+291f3f11-bfc6-4ad6-8c69-c2de933f6f7b___Rut._Bact.S 1460.JPG,Peach___Bacterial_spot,Cherry_(including_sour)___Powdery_mildew
+c715c01f-aa82-4685-9fca-5d2d46c44228___Rut._Bact.S 0746.JPG,Peach___Bacterial_spot,Apple___healthy
+70bab855-a953-4713-bd17-fd45933c90a0___JR_HL 9667_180deg.JPG,Cherry_(including_sour)___healthy,Grape___healthy
+e09bbce3-c5ad-404d-82c9-206ceaa40a24___FAM_B.Rot 0519.JPG,Grape___Black_rot,Grape___Esca_(Black_Measles)
+c813028f-add4-4591-832c-72163c6ff701___RS_L.Scorch 9962_flipLR.JPG,Strawberry___Leaf_scorch,Apple___Cedar_apple_rust
+b90e9742-8e01-4e22-9ab4-ca8425090118___FAM_B.Rot 0393.JPG,Grape___Black_rot,Peach___Bacterial_spot
+0b76f650-27cf-4b62-b3ad-c97d81e0db0c___JR_HL 8554_flipTB.JPG,"Pepper,_bell___healthy",Cherry_(including_sour)___healthy
+e0d2045f-215f-4aeb-be90-0859ce7c49cc___FREC_C.Rust 3613_270deg.JPG,Apple___Cedar_apple_rust,Cherry_(including_sour)___Powdery_mildew
+950e2b3f-a007-48c5-bb85-8c68336a7e76___RS_GLSp 4453.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+dc846417-563a-4e11-b4ba-b093db6af0b7___RS_GLSp 4430.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+89699048-94c3-4389-9a86-13e73dfd23c6___RS_HL 7257.JPG,Apple___healthy,Apple___Apple_scab
+a74f0a0e-7067-4e6d-9030-d576034f1736___RS_NLB  4508 copy_180deg.jpg,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+bdd88db7-dcfe-4679-b6aa-b9b5ae556808___FAM_B.Rot 3002_flipLR.JPG,Grape___Black_rot,Apple___Apple_scab
+40ca043f-ee3d-4327-95ee-09d7b41ebfc4___RS_NLB 3890.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+07dfb451-4378-49d1-b699-33a5fc49ff07___RS_HL 5399_180deg.JPG,Potato___healthy,Potato___Late_blight
+a8d687be-3777-403f-bae7-5c8c19340b3f___RS_HL 1738_flipLR.JPG,Potato___healthy,Cherry_(including_sour)___healthy
+fe8e7208-9986-428c-abff-98da6ba8809a___FREC_C.Rust 4161_newPixel25.JPG,Apple___Cedar_apple_rust,Strawberry___Leaf_scorch
+674c432b-e349-45e5-9261-c04478409834___RS_NLB 3963 copy 2_180deg.jpg,Corn_(maize)___Northern_Leaf_Blight,Peach___Bacterial_spot
+d27854b1-51af-4804-a928-9305d63f2db1___RS_HL 6181_flipTB.JPG,Apple___healthy,Peach___healthy
+5227377f-ffad-4c90-8bd6-a778cae82e1f___Rutg._HL 3599_90deg.JPG,Peach___healthy,Apple___healthy
+b5a75c29-c79a-4db0-8976-e33e48628ccb___FREC_C.Rust 9966_new30degFlipLR.JPG,Apple___Cedar_apple_rust,Apple___Apple_scab
+1ad2c944-a4cf-4c97-a31f-6265c0a927e1___RS_L.Scorch 9937_flipLR.JPG,Strawberry___Leaf_scorch,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+ec6e43d3-512d-4908-99f2-c9e2a0be54be___RS_HL 4202_newPixel25.JPG,Potato___healthy,Apple___Cedar_apple_rust
+d3e6cc68-6d84-406f-9e02-b81f8051ecb3___RS_LB 3992.JPG,Potato___Late_blight,Potato___healthy
+a7659e27-ba53-4b85-a0dd-6a1009703831___RS_GLSp 4619.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+ba462265-a5c8-4fa8-abb4-24054691eb16___RS_GLSp 3809.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+a5f9fefc-e6f0-4e02-ab82-d92af46b1377___Rut._Bact.S 3399.JPG,Peach___Bacterial_spot,Potato___Late_blight
+65e93287-a900-4c89-bde8-e99dc095d256___Rutg._HL 2425_newPixel25.JPG,Peach___healthy,Potato___healthy
+2e1013a9-88bb-494f-9ed5-7e8e79f9a7ca___RS_NLB 3606 copy.jpg,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+ac871be5-33e2-4fda-995a-8818e8cb7fa2___RS_GLSp 4663 copy 2_270deg.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Apple___Cedar_apple_rust
+4ed51751-01c2-4b59-8b10-1e8005d2e421___FAM_B.Rot 3467.JPG,Grape___Black_rot,Grape___Esca_(Black_Measles)
+349730da-a627-4da6-90d5-707c4a3dba88___RS_Early.B 7553_180deg.JPG,Potato___Early_blight,Potato___Late_blight
+35aaee78-3936-4cf4-87cd-5fd74a1d031b___RS_NLB 3889_flipTB.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+f2337879-90af-4102-8885-64bff901c181___FAM_L.Blight 1379.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape___Black_rot
+cfec0626-7a50-4411-a6b9-f63a49e4d2eb___RS_NLB 3746.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+6cab0a2b-a2d9-4798-8043-f6ef416ed745___RS_LB 4993.JPG,Potato___Late_blight,Potato___Early_blight
+bc43c710-9fa2-44a2-8420-94c71c01c2c6___RS_GLSp 7278.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+cd7bc6d0-0a45-4d7f-8474-1cb3bfc8adba___FAM_B.Rot 3268.JPG,Grape___Black_rot,Grape___Esca_(Black_Measles)
+cd7bc6d0-0a45-4d7f-8474-1cb3bfc8adba___FAM_B.Rot 3268_flipLR.JPG,Grape___Black_rot,Grape___Esca_(Black_Measles)
+82bd1f8e-ec90-4f92-9d62-6f40ebe3f4f3___Rut._Bact.S 0941.JPG,Peach___Bacterial_spot,Apple___Apple_scab
+0b440206-f9aa-463a-9c52-3bc5721fdcb5___RS_L.Scorch 9927_flipLR.JPG,Strawberry___Leaf_scorch,Apple___Cedar_apple_rust
+cda4e00f-b32f-4605-b2ca-4b5eba5ecc22___JR_FrgE.S 8799.JPG,Apple___Black_rot,Grape___Esca_(Black_Measles)
+22259775-b4b5-4e64-a56f-b2be4260346d___FREC_Pwd.M 5133_flipLR.JPG,Cherry_(including_sour)___Powdery_mildew,Strawberry___healthy
+5386aabe-1e7f-4688-ac5e-ade0e91318d4___JR_FrgE.S 8638.JPG,Apple___Black_rot,Cherry_(including_sour)___healthy
+d270d610-6fb5-4ae1-9a00-ad72b3e98526___JR_FrgE.S 8635_270deg.JPG,Apple___Black_rot,Cherry_(including_sour)___healthy
+b7f4aecb-df98-49ef-99a8-538fa645f533___RS_GLSp 4312.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+a2cb6533-7fe2-44b9-bf05-566d0298625d___RS_L.Scorch 0142.JPG,Strawberry___Leaf_scorch,Corn_(maize)___Northern_Leaf_Blight
+e4e51261-5ca9-4757-bd44-d2e0729db030___Rutg._HL 3744_270deg.JPG,Peach___healthy,Peach___Bacterial_spot
+6a9a646a-60df-4044-94bc-fc3f0fad2fca___FAM_B.Rot 3235_flipLR.JPG,Grape___Black_rot,Grape___Esca_(Black_Measles)
+f9abf8f6-7783-473c-81d2-a84dba013d3e___Rutg._HL 2500_270deg.JPG,Peach___healthy,Apple___Black_rot
+e6c8b854-6b46-4137-8e08-81e63ff418ea___JR_FrgE.S 2971_90deg.JPG,Apple___Black_rot,Peach___healthy
+650a5f9b-7a57-46fd-a18a-844bb03bdf80___JR_HL 6013.JPG,"Pepper,_bell___healthy",Potato___healthy
+5407df5a-f51c-4837-b7e9-41b444a2314a___Rut._Bact.S 0757.JPG,Peach___Bacterial_spot,Apple___healthy
+fcf73483-d84f-4278-9ef7-5a715c73c8e1___RS_GLSp 4408 copy_270deg.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+e64b685a-2b5f-4bcf-afb5-284a972c90d5___RS_L.Scorch 0073_flipLR.JPG,Strawberry___Leaf_scorch,Corn_(maize)___Northern_Leaf_Blight
+f3bac530-dd9a-43b3-b3cf-9860315f3d18___JR_FrgE.S 8800.JPG,Apple___Black_rot,"Pepper,_bell___Bacterial_spot"
+bb7244cb-5a7e-4446-85e0-f9b7db6d197d___RS_GLSp 7295.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+c3d356bb-504c-48f7-b7aa-4feb5c009d6d___FREC_Scab 3383_90deg.JPG,Apple___Apple_scab,Peach___Bacterial_spot
+6103f8b9-13cd-4a76-a501-33ebe9d24427___JR_B.Spot 8936_180deg.JPG,"Pepper,_bell___Bacterial_spot",Apple___Black_rot
+0527ab7c-4ebe-4fd5-8254-ceea1b147005___RS_NLB 3925_180deg.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+a41e31a6-c07f-43d0-8b62-c7aae76262e6___RS_NLB 3951_flipTB.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+8455ff58-ba10-44ee-abfc-0055cf6f0449___FREC_Scab 3135_90deg.JPG,Apple___Apple_scab,Apple___healthy
+0b3e5032-8ae8-49ac-8157-a1cac3df01dd___RS_HL 1817_new30degFlipLR.JPG,Potato___healthy,"Pepper,_bell___healthy"

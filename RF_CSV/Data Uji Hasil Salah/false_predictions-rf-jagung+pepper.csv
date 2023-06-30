@@ -1,0 +1,48 @@
+Filename,True Labels,Predicted Labels
+a401fce7-28ad-4d2f-bf98-3ef87ae65ba5___RS_GLSp 4614.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+bbea95f8-cc26-40b6-9436-228f70d605d7___RS_GLSp 7332.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+f5eb9c66-7174-4f62-8261-7c7520601824___RS_GLSp 9342.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_
+6728afe3-9ab4-4235-b7e3-5b9ee80b6675___RS_NLB 3605_flipTB.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+629273b6-9eaa-4084-b72b-ac856a9ef899___RS_GLSp 4636_270deg.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+34ae03ee-4314-47b1-a568-f3537bc2afba___RS_NLB 3672_180deg.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+74967cb3-e984-43f3-9bd3-74ba302b1db7___RS_GLSp 4555.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+bbde9366-ec3c-4354-815b-5b95b6cdb676___RS_GLSp 4481.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+1157b4eb-dfb3-41b7-a083-77b0ca2e7634___RS_GLSp 4460.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+b2980d13-da6a-4475-bb60-abed664c5506___RS_GLSp 4678.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+baf87bb4-cf33-432d-ae8c-6ee3bd6dacce___JR_B.Spot 8988_flipTB.JPG,"Pepper,_bell___Bacterial_spot",Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+6089948d-346f-4745-af12-4355a7ef3dea___RS_NLB 3800_flipTB.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+ba462265-a5c8-4fa8-abb4-24054691eb16___RS_GLSp 3809.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+910679a5-f18d-40ac-a00e-9e2c27a45610___RS_GLSp 9327.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+6e2464e9-1034-4ee9-9211-63e57ad09031___RS_GLSp 4661_90deg.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+3aeb9908-679b-4d53-8925-5b436d0961d8___RS_GLSp 9317.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+03a4f6f6-9c17-4310-921b-5dbf97df630a___JR_HL 8571_newPixel25.JPG,"Pepper,_bell___healthy",Corn_(maize)___healthy
+4baea4d9-8343-4550-838f-86dfb7672591___RS_GLSp 4639 copy.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+e22976d4-ff48-4672-ad70-e17d50b65b1c___RS_NLB 3688_180deg.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+057c3f91-c15e-464b-b4ba-66b16dbe5149___RS_NLB 3565 copy.jpg,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+44209d86-9fed-42cd-b5dc-5580166b10ab___RS_GLSp 4684.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+98d0dbe1-2532-419e-9cc4-1ef0da68fb0e___RS_GLSp 4452.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+d2a1f0d8-2835-4984-80fd-11be9e18ab22___RS_GLSp 4580.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+d3d7a5a3-ee3f-4654-8e90-8e722d433972___RS_NLB 3553_180deg.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Common_rust_
+RS_Rust 2655_flipLR.JPG,Corn_(maize)___Common_rust_,"Pepper,_bell___Bacterial_spot"
+68a8b022-1f2d-4546-957f-a69aa11f0e39___JR_HL 8122.JPG,"Pepper,_bell___healthy","Pepper,_bell___Bacterial_spot"
+573ad2a6-906a-4d32-af81-0026fc57258f___RS_GLSp 4613.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+50a8d45e-07fa-495d-8779-e07715b1c644___RS_GLSp 9358.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Common_rust_
+RS_Rust 1680_flipLR.JPG,Corn_(maize)___Common_rust_,"Pepper,_bell___Bacterial_spot"
+2e594c45-c4c7-43b1-ab19-100945e7a2a7___RS_NLB 4020 copy 3.jpg,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+15803dee-8071-49f1-81b6-fd3dedbc1c58___RS_NLB 4020 copy.jpg,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+5dc9613c-fcbf-42ce-a95a-6520bf780872___RS_NLB 4225.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+a9e08234-c1be-4519-a3e3-dd8d9456fab0___RS_GLSp 7336_270deg.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___healthy
+e16bfc88-93b9-4036-b77f-614967a4ee2f___RS_GLSp 4652.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+e50fa094-ce6d-475b-91e7-55266a2677ac___RS_GLSp 4379 copy.jpg,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+7ff116fc-5095-4377-bcf1-b173f05c9e7b___RS_GLSp 7323.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+78d28bb5-2b07-42eb-aff8-d205eaf38fc9___RS_NLB 3967_flipTB.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+fa0d690b-b3ae-4ddd-b09d-ca8608233a1a___RS_GLSp 4629.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+59726309-40b6-498d-a487-ff2d8fc455a8___RS_GLSp 4686.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+a3be7c5c-5a5c-4b66-87f9-d74a9d5d409d___RS_NLB 4228 copy_flipTB.jpg,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+b73cddeb-5b44-404b-9ca5-6f5397f3d518___RS_GLSp 4400.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+e2faa2e3-433a-4ee3-9b64-8de4ad2947e1___RS_NLB 3795_flipTB.JPG,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+bc690bb9-1611-4744-844d-0ab174467f54___RS_GLSp 4582.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+b81f901d-c870-43fd-b7c7-9b699d10d27e___JR_HL 8316.JPG,"Pepper,_bell___healthy",Corn_(maize)___healthy
+b9a39437-94b7-41e3-b309-080e9a93d5ca___RS_GLSp 4440_90deg.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+975b25df-a4d7-4aca-b1b9-312487544eaa___JR_B.Spot 8830.JPG,"Pepper,_bell___Bacterial_spot",Corn_(maize)___Northern_Leaf_Blight
+057c3f91-c15e-464b-b4ba-66b16dbe5149___RS_NLB 3565 copy_flipTB.jpg,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot

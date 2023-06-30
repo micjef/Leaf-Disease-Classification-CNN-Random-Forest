@@ -1,0 +1,7 @@
+Filename,True Labels,Predicted Labels
+30e108e7-3a95-401f-a815-11397d206839___FAM_B.Rot 0548.JPG,Grape___Black_rot,Grape___Esca_(Black_Measles)
+f00f7ab3-5f23-4088-90e4-c6dcbb08333b___FAM_B.Rot 0588_flipLR.JPG,Grape___Black_rot,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+8c02d3db-062d-433e-b76c-b1ab7d92f6a9___FAM_B.Msls 4360.JPG,Grape___Esca_(Black_Measles),Grape___Black_rot
+edfed485-3794-48f2-a447-a2222428d48d___FAM_B.Msls 1200_flipLR.JPG,Grape___Esca_(Black_Measles),Grape___Black_rot
+5915c9ee-e086-4a22-aab5-a4ad14b155d1___FAM_L.Blight 1529_flipLR.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape___Black_rot
+74b13f0b-97d0-48be-94c1-2ecef2e2ad6a___FAM_B.Rot 3237.JPG,Grape___Black_rot,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
